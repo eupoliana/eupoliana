@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Olá, Eu sou a Poli 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poliana-da-silva-♿-0b5b1522b/)
 
