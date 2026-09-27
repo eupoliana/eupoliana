@@ -1,6 +1,26 @@
-### Olá, Eu sou a Poli 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poliana-da-silva-♿-0b5b1522b/)
+# Olá, eu sou a Poli 👋
 
-![eupoliana GitHub stats](https://github-readme-stats.vercel.app/api?username=eupoliana&show_icons=true&theme=dracula)
+💻 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
 
-Apaixonada por cibersegurança e por compatilhar conhecimento sobre segurança de dados.
+🔐 Sou apaixonada por **Cibersegurança** principalmente quando o assunto é  
+conscientizar pessoas e tornar a **segurança Digital** mais simples de entender.
+
+🐾 Fora das telas, sou mãe de pet e provavelmente estou conhecendo algum brechó por aí. ♻️
+
+
+### Um pouquinho do que faz parte do meu mundo ✨
+
+![Cybersecurity](https://img.shields.io/badge/Cibersegurança-0D1117?style=flat-square&logo=hackthebox&logoColor=white)
+![C](https://img.shields.io/badge/Estudando_C-00599C?style=flat-square&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/poliana-da-silva-0b5b1522b/">
+    <img src="https://img.shields.io/badge/LinkedIn-vamos_conversar%3F-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
